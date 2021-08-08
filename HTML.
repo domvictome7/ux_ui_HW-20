@@ -1,0 +1,256 @@
+<DOCTYPE! HTML>
+
+<nav class="navbar navbar-expand-sm bg-light justify-content-center">
+
+  <!-- Links -->
+  <ul class="navbar-nav">
+    <li class="nav-item">
+      <a class="nav-link" href="#">FAQ</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="#">Help</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="#">SocialMedia</a>
+    </li>
+  </ul>
+
+</nav>
+  
+  
+  <html lang="en">
+<head>
+  <title>Jumbotron</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+<div class="jumbotron jumbotron-fluid">
+  <div class="jumbotron">
+    
+    <h1>Welcome To My Portfolio Page</h1>      
+    <p>This is a small recollection of my recent works from my Georgia Tech Bootcamp.</p>
+  </div>
+</div>
+  
+
+<div class="container">     
+</div>
+
+</body>
+</html>
+  
+  
+  
+  
+  <Head> 
+    <title>Hi, I'm Dominique</title>
+    </head>
+    <body>
+        <h1> Hi, Im Dominique Victome UX Designer</h1>
+      
+      <p> I have just started UX designing this year and I'm recently starting to code!<p>
+ 
+  <html>
+<head>
+<style>
+span.a {
+  display: inline; 
+  width: 23px;
+  height: 100px;
+  padding: 1px;
+  border: 1px solid blue;  
+  background-color: black; 
+}
+
+span.b {
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+  padding: 5px;
+  border: 1px solid blue;    
+  background-color: black; 
+}
+
+span.c {
+  display: block;
+  width: 100px;
+  height: 100px;
+  padding: 5px;
+  border: 1px solid blue;    
+  background-color: black; 
+}
+</style>
+</head>
+<body>
+  
+   <ul class="nav justify-content-center">
+  <li><a href="#home">Home</a></li>
+  <li><a href="#about">About Us</a></li>
+  <li><a href="#work">Work</a></li>  
+  <li><a href="#contact">Contact Me</a></li>
+</ul>
+
+<html>
+<head>
+<style>
+.nav {
+  background-color: black; 
+  list-style-type: none;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+.nav li {
+  display: inline-block;
+  font-size: 20px;
+  padding: 20px;
+  
+}
+</style>
+</head>
+<body>
+    
+        
+        <img src="https://assets.bigcartel.com/theme_images/59271891/rockstarmade.png" alt="logo" width="500" height"500" 
+
+            
+             
+            
+         
+             
+             
+      
+  
+<html>
+<head>
+<style>
+span.a {
+  display: inline; 
+  width: 23px;
+  height: 100px;
+  padding: 1px;
+  border: 1px solid blue;  
+  background-color: black; 
+}
+
+span.b {
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+  padding: 5px;
+  border: 1px solid blue;    
+  background-color: black; 
+}
+
+span.c {
+  display: block;
+  width: 100px;
+  height: 100px;
+  padding: 5px;
+  border: 1px solid blue;    
+  background-color: black; 
+}
+</style>
+</head>
+<body>
+
+<html>
+<head>
+<style>
+.nav {
+  background-color: black; 
+  list-style-type: none;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+.nav li {
+  display: inline-block;
+  font-size: 20px;
+  padding: 20px;
+}
+</style>
+</head>
+<body>
+
+<h1>Recent Work</h1>
+<p>Over the course of class I've done Multiple Case Studies. I am Dominique Victome
+UX Designer & Researcher
+
+I am a freelance graphic designer and streetwear designer. I specialize in screen printing media, cover arts, and promotional content. The thing I love most about design is the color scheme patterns, homage to older artist, and lastly symmetry.
+
+I am recently a new UX/UI designer. 
+
+I specialize in Hierarchy design and  color coordination and theory</p>
+<p>These are some of my recent works</p>
+  
+  <img src="https://lh5.googleusercontent.com/9j0L-bi0M-52BhY7oyfsM4zBDbeHeXatmteDv63GNC9G1IQsQuRdr3HumLnHMM43RSjL_vxMi4YZ9ybuC9tpdFcZofGhn-v4TvTBXQ2IwL-HY7xkUHQQkFN8WY53OTxqf0CqhOi_NpE"
+       <p> First prototype: Nsurance App</p>
+
+  <img src="https://lh4.googleusercontent.com/18NmGoOeTF6ewVy6JHdNaVfIsWWprWRsRJzuoahYowbgEeZNVS5PPiKTNmshP2FUrRifqy6O9Azi4leSxPmZiCQU2aMwcIy2lOfmUxR-tsLPbytKOp-oS_y1KvKIzriwB8PIvWTqTnM"
+       <p> Second Prototype: Layover App</p>
+  
+  <img src="https://projects.invisionapp.com/static-signed/live-embed/531309927/453157052/1/latest/Gq5w3fxl8SRkSEM6lEWNFcFjtZwt9yM1w2ylxkp5PMxBdHlENMlEebkjknAgk7uOcF52bUSX8dInhVOacKQYFab1wlE/iPhone-12-12-Pro-1.png"
+       <p> Third Prototype: DHS.Org Non-profit Organization</p>
+       
+       
+  <ul class="nav justify-content-center">
+  <li><a href="#home">Home</a></li>
+  <li><a href="#about">About Us</a></li>
+  <li><a href="#work">Work</a></li>  
+  <li><a href="#contact">Contact Me</a></li>
+</ul>
+
+</body>
+</html>
+
+     </body>
+<html>
+<body>
+
+
+<p class="justify-content-center" id="demo">Click Here To Download!</p>
+<button type="button" onclick="myFunction()">Download Resume</button>
+
+<script>
+function myFunction() {
+  document.getElementById("demo").innerHTML = "Successfully Downloaded!";
+}
+</script>
+
+</body>
+</html> 
+</body>
+</html>
+                                         
+                                        
+     
+ <footer>Thank You For Visiting, If you have any questions feel free to contact me</footer> 
+          
+
+          
+         
+          
+          
+          
+              
+     <link> 
+              
+  </html
+              
+  <html>
+<head>
+<style>
+  
+
+}
+
+
