@@ -1,0 +1,29 @@
+body {
+  background-color: white;
+  text-align: center;
+  font-family: arial;
+  
+
+}
+
+h1 {
+  color: black;
+  text-align: center;
+  font-family: arial;
+  
+}
+
+p {
+  font-family: arial;
+  font-size: 20px;
+  text-align: center;
+  padding: 25px;
+}
+
+footer {
+  color:  black;
+  text-align: center;
+  font-family: arial;
+}
+
+
